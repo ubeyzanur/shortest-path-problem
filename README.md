@@ -1,8 +1,4 @@
 # shortest-path-problem
-Hayır, yıldızlar (`*****`) genellikle estetik değil ve profesyonel bir README dosyasının görünümüne zarar verebilir. Başlıkları belirgin hale getirmek için Markdown formatında `#` (başlık işaretçisi) kullanmak çok daha yaygın ve temiz bir yöntemdir. Yıldızlar yerine başlıkları şu şekilde düzenlemek daha uygun olacaktır:
-
----
-
 # City Pathfinding Project
 
 ## Overview
@@ -102,4 +98,3 @@ This project is intended for **educational purposes** and **personal use**. If y
 
 ---
 
-Yıldızları kaldırarak başlıkları düzenledim ve Markdown ile uyumlu hale getirdim. Bu şekilde görünüm daha profesyonel olacaktır.
